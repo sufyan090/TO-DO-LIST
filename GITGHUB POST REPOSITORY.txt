@@ -1,0 +1,9 @@
+1ST = OPEN YOUR FOLDER IN GITBASH HERE
+2ND = git status
+3rd = git add -A
+4th = git status
+5th = git commit -m "your project intro"
+6th = git config --global user.email = "your email"
+7th = git config --global user.name = "your name"
+8th = git commit -m "your project intro"
+9th = git push -u origin master

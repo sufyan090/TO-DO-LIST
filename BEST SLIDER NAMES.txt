@@ -1,0 +1,6 @@
+Infinite Multi-slide Carousel In Pure JavaScript – elder-carousel.
+Netflix Like Hover Carousel In Pure CSS – flix-carousel.
+CSS Flexbox Image Carousel.
+Shuffling Card Carousel In Pure CSS.
+Pure Html / CSS Responsive Carousel – Cari.
+Pure CSS Content Carousel with Arrows & Bullets Navigation

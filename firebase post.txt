@@ -1,0 +1,14 @@
+1st
+
+OPEN COMMAND PROMPT IN RUN AS ADMINISTRATOR
+check node -v = (node version)
+check npm -v  = (npm version)
+
+2nd
+command = npm install --global firebase-tools
+
+3rd 
+command = firebase login
+4th
+command = firebase init
+command = firebase deploy

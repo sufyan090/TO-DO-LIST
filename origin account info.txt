@@ -1,0 +1,4 @@
+username = muhammad sufiyan
+email = sufyanpatni090@gmail.com
+password = 123ITworld
+nick name = mrhacker_com
